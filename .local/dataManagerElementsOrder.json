@@ -1,0 +1,48 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "KullaniciVeriAl.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "kullaniciVeri&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "userinput"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Meteoroloji.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_HavaDurumu&Sequence_1",
+        "test&Sequence_1",
+        "tarih&Sequence_1",
+        "endusuk&Sequence_1",
+        "enyuksek&Sequence_1",
+        "count&Sequence_1",
+        "userinput&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
